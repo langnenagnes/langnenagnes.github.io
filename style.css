@@ -1,0 +1,60 @@
+.container {
+  width: 1000px;
+  
+  }
+
+.container1 {
+  height: 500px;
+  background: center;
+  font-family: 'Abril Fatface', cursive;
+  text-align: left;
+  align-items: flex-end;
+  justify-content: center;
+  display: flex;
+    }
+
+p1 {
+ font-size: 20px;
+ color: #222;
+ margin-bottom: 20px;
+ }
+
+#Anakin {
+  font-size: 30px;
+}
+
+.container2 {
+  height: 160px;
+  text-align: left;
+  justify-content: center;
+  margin: 10px 200px 10px 200px;
+  font-family: 'Josefin Sans', sans-serif;
+ }
+
+.container3 {
+  background: #222;
+  height: 100px;
+  border: 1px solid black;
+  margin-left: 120px;
+  margin-right: 120px;
+  display: flex;
+  justify-content: center;
+ 
+} 
+
+h {
+  color: white;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+p3 {
+  color: white;
+}
+
+blockquote p3::before {
+    content: '\201C';
+  font-size: 60px;
+  
+  }
